@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) TODO-list which is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-First project with Pocketbase, still under progress.
+First project with Pocketbase, still under progress and by no means a finished project.
 
 TODO's:
   - Implement login for user, so each user can keep track of their own TODO-list.
