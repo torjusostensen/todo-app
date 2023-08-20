@@ -36,15 +36,11 @@ export default function HandleTask() {
         placeholder="Title"
         value={title}
         onChange={(e) => setTitle(e.target.value)}
-        required
-        maxLength={10}
       />
       <textarea
         placeholder="Content"
         value={content}
         onChange={(e) => setContent(e.target.value)}
-        required
-        maxLength={20}
       />
       <button type="submit">
         Create Task
