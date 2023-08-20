@@ -1,14 +1,15 @@
 This is a [Next.js](https://nextjs.org/) TODO-list which is bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-First project with Pocketbase, more functionality will be added later.
+First project with Pocketbase, still under progress.
 
 TODO's:
   - Implement login for user, so each user can keep track of their own TODO-list.
   - The possibility to delete tasks.
   - Styling, just simple CSS at the moment.
 
+Issues:
+ - Some issues with the fetching from Pocketbase
 
-Pocketbase is used as backend/storage. 
 
 ## Getting Started
 
