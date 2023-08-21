@@ -18,14 +18,14 @@
     color: dodgerblue;
   }
   
-  .task {
-    height: 170px;
+  .todo {
+    height: auto;
     width: 200px;
-    padding: 0.2rem 1rem;
-    margin: 0.5rem;
-    background: lightblue;
-    box-shadow: 4px 4px 8px 1px #00000075;
-    border-radius: 20px;
+    padding: 0.5rem 1rem;
+    margin: 1rem;
+    background-color: lightblue;
+    box-shadow: 0 0 0.5rem rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
   }
   
   .container {
@@ -38,7 +38,7 @@
     font-size: 3rem;
   }
   
-  .post {
+  .todo {
     height: auto;
     width: 200px;
     padding: 0.25rem;
@@ -50,7 +50,7 @@
     font-size: 1rem;
   }
   
-  .content {
+  .description {
     font-size: 0.9rem;
     font-weight: normal;
   }
@@ -64,8 +64,3 @@
     text-align: left;
     color: dodgerblue;
   }
-  
-  .first_title {
-    margin-left: 10px;
-  }
-  
